@@ -123,3 +123,7 @@ What were the 10 most common randomly generated keys?
     7   |  2327
 
     (10 rows)
+
+##License
+
+See the LICENSE file for licensing and copyright terms.
